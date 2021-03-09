@@ -3,9 +3,9 @@
 ## All rights goes to GTPL company. https://www.gtpl.net
 
 # Full Page ScreenShot
-![](screenshot\fullpage.jpg)
+![](screenshot/fullpage.jpg)
 
 # -------------------------------------------------
 
 # GIF file showing various animations
-![](screenshot\Animation.gif)
+![](screenshot/Animation.gif)
